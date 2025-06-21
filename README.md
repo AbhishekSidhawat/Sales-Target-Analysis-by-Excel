@@ -12,9 +12,9 @@ This project demonstrates an end-to-end Excel dashboard analyzing the daily perf
 # Key Features
 - Region-wise sales tracking
 - Automated performance metrics:
-- Total Sales
-- Target Hit %
-- Away From Target %
+   Total Sales
+   Target Hit %
+   Away From Target %
 - Macro-enabled charts and visual dashboard
 - Built-in formulas for automatic calculation
 - Conditional formatting for quick insights
