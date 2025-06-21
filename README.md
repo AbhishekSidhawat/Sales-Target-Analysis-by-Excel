@@ -13,19 +13,20 @@ This project demonstrates an end-to-end Excel dashboard analyzing the daily perf
 This Excel project simulates a real-world scenario where a manager needs to track the daily sales performance of a team of sales executives across multiple cities in India. The project helped me learn how to work with data, apply formulas, and crbeate visual dashboards in Excel to track performance metrics.
 
 ## The project includes:
-o RAW DATA Sheet <br />
+o RAW DATA Sheet
    Contains the following columns: <br />
-o	Employee Code 
-o	Sales Executive Name
-o	Region
-o	Total Sales
-o	Target
+o	Employee Code <br />
+o	Sales Executive Name<br />
+o	Region<br />
+o	Total Sales<br />
+o	Target<br />
 o	Target Hit % and Away from Target %
-•	 DASHBOARD Sheet
-## A visual summary built with:
-o	Charts and graphs to show performance trends
-o	Key metrics like Total Sales and Target Achievement
-o	Conditional formatting to highlight high or low performance
+
+## DASHBOARD Sheet
+ A visual summary built with:<br />
+o	Charts and graphs to show performance trends<br />
+o	Key metrics like Total Sales and Target Achievement<br />
+o	Conditional formatting to highlight high or low performance<br />
 o	Clear and clean visualization layout for easy understanding
 
 # What I Learned
