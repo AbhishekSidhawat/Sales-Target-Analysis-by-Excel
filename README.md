@@ -4,28 +4,32 @@ A macro-enabled Excel project that tracks and analysis sales executive performan
 This project demonstrates an end-to-end Excel dashboard analyzing the daily performance of sales executives across different regions in India.
 
 # File Details
-- Filename: Sales-Target Analysis.xlsx
+- Filename: Sales-Target-Analysis-by-Excel.xlsm
 - Sheets Included
 - RAW DATA: Contains sales data including employee codes, region, daily sales, and target performance.
 - DASHBOARD: A dynamic dashboard visualizing performance metrics (requires macros enabled).
 
-# Key Features
-- Region-wise sales tracking
-- Automated performance metrics <br />
-   Total Sales <br />
-   Target Hit % <br />
-   Away From Target % <br />
-- Macro-enabled charts and visual dashboard
-- Built-in formulas for automatic calculation
-- Conditional formatting for quick insights
+# Project Overview
+This Excel project simulates a real-world scenario where a manager needs to track the daily sales performance of a team of sales executives across multiple cities in India. The project helped me learn how to work with data, apply formulas, and crbeate visual dashboards in Excel to track performance metrics.
 
-# Sample Data
-| Emp Code   | Sales Executive  | Region  | Day1 | Day2 | Day3 | Day4 | Day5 | Total Sales | Target | Target Hit % | Away From Target % |
-|------------|------------------|---------|------|------|------|------|------|--------------|--------|----------------|----------------------|
-| Mum-TCL001 | Raj Verma        | Mumbai  | 49   | 84   | 98   | 67   | 41   | 339          | 500    | 0.678         | 0.322                |
+## The project includes:
+o RAW DATA Sheet <br />
+   Contains the following columns: <br />
+o	Employee Code 
+o	Sales Executive Name
+o	Region
+o	Total Sales
+o	Target
+o	Target Hit % and Away from Target %
+•	 DASHBOARD Sheet
+## A visual summary built with:
+o	Charts and graphs to show performance trends
+o	Key metrics like Total Sales and Target Achievement
+o	Conditional formatting to highlight high or low performance
+o	Clear and clean visualization layout for easy understanding
 
-# Tools Used
-- Microsoft Excel (with Macros)
-- Formulas and Conditional Formatting
-- Charts & KPIs
-- Basic VBA Macros (optional)
+# What I Learned
+•	How to clean and organize data in Excel
+•	Using formulas to calculate totals and percentages
+•	Applying conditional formatting to highlight performance
+•	Creating an interactive dashboard to visualize the data
