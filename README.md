@@ -30,7 +30,7 @@ o	Conditional formatting to highlight high or low performance<br />
 o	Clear and clean visualization layout for easy understanding
 
 # What I Learned
-•	How to clean and organize data in Excel
-•	Using formulas to calculate totals and percentages
-•	Applying conditional formatting to highlight performance
+•	How to clean and organize data in Excel<br />
+•	Using formulas to calculate totals and percentages<br />
+•	Applying conditional formatting to highlight performance<br />
 •	Creating an interactive dashboard to visualize the data
